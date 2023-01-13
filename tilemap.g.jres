@@ -4,36 +4,6 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
-    "tile2": {
-        "data": "hwQQABAAAAAAAAAAIAIAAAAAAAAiIgAAAAAAAAAiAgAAAAAAIiIiAgAAACIiIiIiACAiIiIiIkIAAAAiIiJCRAAAACAiQkREAAAgIiJERFUAIiIiRERUVQAgIiJCRFVVAAAgIiJEREQAAAAgIkJEJAAAAAAgIiQCAAAAACIiIgAAAAAAACAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "我的貼圖0"
-    },
-    "tile3": {
-        "data": "hwQQABAAAAAJAAAAAJkAAJkJAAAAkAkAAJkAAAAAmQAAkJmZmQCQmQCQAACQmQmQAJAJkJkAmQkAAAkAkJkAmQAAmZmZkACQAAAAAJCZAAAAAJAAmZCZAAAAkACQCZCZAAkACQCZCZAACQCZAACZAACZAJAJAJAJAJAAAAkAAJkAAAAACQAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "我的貼圖1"
-    },
-    "tile4": {
-        "data": "hwQQABAAAAAAAAoAAAAAAAoACgAAAAoAqgAKAKAAqgCgAKoAoACgCqAAoAqgCgAKoAAAqgCqAAqgAACqAKAKoKCgAKAAAAqgAKAAqgAACgAAoKAKoAAKAACgoACgoAAAAKqgAKCgAAoAqqAAqqCgCgAAoKAAoKAAAACqAAAAoAAAAAAAAACgAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "我的貼圖2"
-    },
-    "tile5": {
-        "data": "hwQQABAAAAAAAAAABQAAAAAAAFAAAAAAAAUAAAUAUAAAUABQAAAFAAAABQAFUAAAAABQUAAFAAAAAABVVQAAAFBQUFVVUFBQBQUFVVUFBQUAAABVVQAAAAAAUAAFBQAAAAAFUABQAAAAUAAABQAFAAAFAFAAAFAAAAAAAAUAAAAAAABQAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "我的貼圖3"
-    },
-    "tile6": {
-        "data": "hwQQABAAAAAAAAAAAHcAAAAAAAAAcHcAAAAAAAAAcAcAAAAAAAAAdwAAAHd3AAAAAAcAAHAHAAAAcAcAAHdwBwAAAAAAAHAAAAAAcAcAcAAAAAd3AAB3AAAAAAcAAAcAAAAAAHB3BwAAAABwdwAAAAAAAAAAAAAHAAAAAAAAdwcAAAAAAAAHAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "我的貼圖4"
-    },
     "tile7": {
         "data": "hwQQABAAAAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
         "mimeType": "image/x-mkcd-f4",
@@ -69,6 +39,36 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "我的貼圖8"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAsAsAAAAAAAC7uwAAAAAAAAC7CwAAAAAAu7u7CwAAALu7u7u7ALC7u7u7u7sAAAC7u7u7uwAAALC7u7u7AACwu7u7u7sAu7u7u7u7uwCwu7u7u7u7AACwu7u7u7sAAACwu7u7uwAAAACwu7sLAAAAALu7uwAAAAAAALAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAALAAAAALsAALsLAAAAsAsAALsAAAAAuwAAsLu7uwCwuwCwAACwuwuwALALsLsAuwsAAAsAsLsAuwAAu7u7sACwAAAAALC7AAAAALAAu7C7AAAAsAuwC7C7AAsACwC7C7AACwC7AAC7AAC7ALALALALALAAAAsAALsAAAAACwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖1"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAAAAsAAAAAAAsACwAAAAsAuwALALAAuwCwALsAsACwC7AAsAuwCwALsAAAuwC7AAuwAAC7ALALsLCwALAAAAuwALAAuwAACwAAsLALsAALAACwsACwsAAAALuwALCwAAsAu7AAu7CwCwAAsLsAsLAAAAC7CwAAsAAAAAAAAACwAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖2"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAAAAAACwAAAAAAALAAAAAAAAsAAAsAsAAAsACwAAALAAAACwALsAAAAACwsAALAAAAAAC7uwAAALCwsLu7sLCwCwsLu7sLCwsAAAC7uwAAAAAAsAALCwAAAAALsAuwAAAAsAAACwALAAALALAAALAAAAAAAAsAAAAAAACwAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖3"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAAAAAAAALsAAAAAAAAAsLsAAAAAAAAAsAsAAAAAAAAAuwAAALu7AAAAAAsAALALAAAAsAsAALuwCwAAAAAAALAAAAAAsAsAuwAAAAu7AAC7AAAAAAsAAAsAAAAAALC7CwAAAACwuwAAAAAAAAAAAAALAAAAAAAAuwsAAAAAAAALAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "我的貼圖4"
     },
     "層級2": {
         "id": "層級2",
